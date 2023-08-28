@@ -4,12 +4,9 @@ id:
 
 scanners:
   - sast
-  - sca
-  - secret
 
 languages:
   - javascript
-  - php
   - golang
 
 fail_pipeline:
