@@ -13,4 +13,4 @@ languages:
   - golang
 
 fail_pipeline:
-  risk_rating: 6
+  risk_rating: 4
