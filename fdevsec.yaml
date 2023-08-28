@@ -1,0 +1,16 @@
+id:
+  org: a1482315-9151-492f-a7dc-dfb58d526986
+  app: 3279e201-a6c8-46e2-b9dd-6a09b2e225c0
+
+scanners:
+  - sast
+  - sca
+  - secret
+
+languages:
+  - javascript
+  - php
+  - golang
+
+fail_pipeline:
+  risk_rating: 6
