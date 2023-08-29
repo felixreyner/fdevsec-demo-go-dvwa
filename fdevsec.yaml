@@ -4,10 +4,10 @@ id:
 
 scanners:
   - sast
+  - dast
 
 languages:
   - javascript
-  - dast
 
 dast:
   url: docker-01.homelab.net:4280
