@@ -7,7 +7,7 @@ scanners:
 
 languages:
   - javascript
-  - golang
+  - dast
 
 dast:
   url: docker-01.homelab.net:4280
