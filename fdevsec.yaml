@@ -10,7 +10,7 @@ languages:
   - javascript
 
 dast:
-  url: docker-01.homelab.net:4280
+  url: http://docker-01.homelab.net:4280
   full_scan: true 
 
 fail_pipeline:
