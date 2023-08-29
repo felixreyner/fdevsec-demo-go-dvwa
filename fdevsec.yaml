@@ -9,5 +9,9 @@ languages:
   - javascript
   - golang
 
+dast:
+  url: docker-01.homelab.net:4280
+  full_scan: true 
+
 fail_pipeline:
-  risk_rating: 4
+  risk_rating: 6
